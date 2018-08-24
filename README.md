@@ -6,20 +6,20 @@
 
 Utilizar los conceptos de UX para equilibrar los objetivos de negocio con las necesidades de los usuarios.
 
-### Métodos
+**Métodos**
 
 Entendimiento del problema y relación con la industria
 Entrevistas con cliente y usuarios
 Clasificación de  secciones, diagrama de afinidad, user Person, customer journey map, card Sorting, flujo de contenidos, flujo de usuarios, prototipos de baja y alta fidelidad y testeo de prototipos.
 
 
-### Herramientas
+**Herramientas**
 
 Prototipado: Marvel.
 Testing: Ziggi hd plus ipevo.
 Fotografía: CamScanner.
 
-### PRESUPUESTO
+**PRESUPUESTO**
 
 Total de presupuesto: 300 puntos.
 
@@ -27,17 +27,17 @@ Total de presupuesto: 300 puntos.
 
 
 
-### Objetivos del proyecto
+**Objetivos del proyecto**
 
 Nos han contactado de la Asociación Nacional de Pequeños Comerciantes (ANPC), una asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes de alimentos naturales, postres, accesorios, vestimenta y calzado.  Nos solicita asesorar a uno de sus miembros, Groupie Merch, en la creación de un portal e-commerce desde donde los consumidores compren sus productos sin intermediarios. 
 
 Para ello, debemos realizar un estudio inicial de cómo debería ser este portal de ventas y cómo deben ofrecer los productos a los consumidores. Averiguar cómo son los consumidores que utilizaría este canal de venta y cuáles son sus motivaciones, cómo es el mercado actual  y que proponer  una visión de cómo podría plantearse este nuevo canal de ventas. Formulando una propuesta de valor.
 
-### Planificación
+**Planificación**
 ![carta gantt](https://user-images.githubusercontent.com/39094762/44565220-5e325280-a73d-11e8-869a-5b0ec8b6649b.jpg)
 
-## INVESTIGACIÓN
-### ENTENDIMIENTO DEL PROBLEMA, LA INDUSTRIA Y EL CONTEXTO
+### INVESTIGACIÓN
+**ENTENDIMIENTO DEL PROBLEMA, LA INDUSTRIA Y EL CONTEXTO**
 
 ¿Quiénes son Groupie Merch?
 
@@ -67,10 +67,57 @@ Queríamos saber lo que está haciendo la competencia o industrias similares par
 ![benchmark](https://user-images.githubusercontent.com/39094762/44565209-5a063500-a73d-11e8-8d5c-b81e2c52b22f.jpg)
 
 ## DESCUBRIMIENTO
-### PROBLEMAS IDENTIFICADOS EN LA INVESTIGACIÓN
+**PROBLEMAS IDENTIFICADOS EN LA INVESTIGACIÓN**
 Dentro del proceso de investigación también se realizaron entrevistas con cliente y a 5 usuarios  para entender sus necesidades y problemáticas. Se pudo identificar lo siguiente:
 
-Entrevista con cliente
+*Entrevista con cliente*
+![cliente](https://user-images.githubusercontent.com/39094762/44565452-99815100-a73e-11e8-8af3-a908fb191768.jpg)
+
+### ENTREVISTAS CON USUARIOS
+![usuarios](https://user-images.githubusercontent.com/39094762/44565457-9be3ab00-a73e-11e8-8608-70c732f99497.jpg)
+
+**Se identificaron varias tendencias**
+
+Lo que los usuarios quieren
+Experiencia de la vida real.
+Comprar de manera sencilla y rápida desde la comodidad de la casa.
+Entrega rápida y fácil.
+Comentarios de otros compradores.
+Saber disponibilidad de producto.
+
+Lo que frustra a los usuarios
+Que no respondan sus dudas.
+Falta de información productos.
+Invertir tiempo y energía comprando en tiendas.
+   
+**Definición del público objetivo**
+En síntesis, gracias a lo obtenido en el proceso de investigación, podemos identificar y personificar a nuestros potenciales usuarios.
+*Tipos de usuarios*
+Melómano que colecciona productos con temática de artista o bandas de música.
+Fanático de artista o bandas de música que asiste a conciertos y compra merchandising.
+Comprador que busca un regalo para un conocido que es fanático de un artista o banda musical.
+Historia de usuarios
+Como melómano quiero poder comprar productos con temática de mis bandas favoritas para poder coleccionar.
+Como fanática quiero poder comprar merchandising de mi banda favorita para usar en el concierto y recordar esa experiencia.
+Como comprador quiero poder adquirir un producto con temática de artistas para regalar a un conocido.
+User persona
+
+**Customer Journey Map (indicando pain y gain points)**
 
 
+
+
+
+
+
+**Arquitectura de la información**
+
+![inventariocontenido](https://user-images.githubusercontent.com/39094762/44565482-b584f280-a73e-11e8-9092-5eb3bf690332.jpg)
+
+**CARD SORTING**
+En esta actividad dimos los elementos del inventario de productos de muestra a 5 usuarios diferentes y les pedimos que clasifiquen los productos y los etiqueten como les parece lógico para ellos.
+Con las categorías creadas pero también con la libertad de crear nuevas categorías si lo encontraban necesario, a través de este método de clasificación híbrido, obtuvimos resultados en común, donde clasificaron  por tipo de producto o por artista, gracias a esto pudimos definir las categorías  que se mencionan más arriba.
+
+*Participantes:*
+![testing cardsor](https://user-images.githubusercontent.com/39094762/44565478-b1f16b80-a73e-11e8-86a5-f0a5a191a322.jpg)
 
