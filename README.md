@@ -33,6 +33,8 @@ Nos han contactado de la Asociación Nacional de Pequeños Comerciantes (ANPC), 
 
 Para ello, debemos realizar un estudio inicial de cómo debería ser este portal de ventas y cómo deben ofrecer los productos a los consumidores. Averiguar cómo son los consumidores que utilizaría este canal de venta y cuáles son sus motivaciones, cómo es el mercado actual  y que proponer  una visión de cómo podría plantearse este nuevo canal de ventas. Formulando una propuesta de valor.
 
+### Planificación
+![carta gantt](https://user-images.githubusercontent.com/39094762/44565220-5e325280-a73d-11e8-869a-5b0ec8b6649b.jpg)
 
 ## INVESTIGACIÓN
 ### ENTENDIMIENTO DEL PROBLEMA, LA INDUSTRIA Y EL CONTEXTO
@@ -62,5 +64,13 @@ La industria del merchandising en Chile está enfocado a las medianas y grandes 
 Comenzamos comparando sitios web  de pequeñas y medianas empresas de  productos  iguales o similares a los ofrecidos por nuestro cliente para obtener inspiración de un portal e commerce.
 
 Queríamos saber lo que está haciendo la competencia o industrias similares para identificar las oportunidades de Groupie Merch y poder replicar las buenas prácticas que han tenido éxito con los usuarios. Junto con ello se analizó el diseño de estos sitios y cómo es el flujo de contenidos.
+![benchmark](https://user-images.githubusercontent.com/39094762/44565209-5a063500-a73d-11e8-8d5c-b81e2c52b22f.jpg)
+
+## DESCUBRIMIENTO
+### PROBLEMAS IDENTIFICADOS EN LA INVESTIGACIÓN
+Dentro del proceso de investigación también se realizaron entrevistas con cliente y a 5 usuarios  para entender sus necesidades y problemáticas. Se pudo identificar lo siguiente:
+
+Entrevista con cliente
+
 
 
