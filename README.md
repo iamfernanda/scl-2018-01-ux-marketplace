@@ -113,7 +113,9 @@ Como comprador quiero poder adquirir un producto con temática de artistas para 
 **CARD SORTING**
 
 En esta actividad dimos los elementos del inventario de productos de muestra a 5 usuarios diferentes y les pedimos que clasifiquen los productos y los etiqueten como les parece lógico para ellos.
-Con las categorías creadas pero también con la libertad de crear nuevas categorías si lo encontraban necesario, a través de este método de clasificación híbrido, obtuvimos resultados en común, donde clasificaron  por tipo de producto o por artista, gracias a esto pudimos definir las categorías  que se mencionan más arriba.
+Con las categorías creadas pero también con la libertad de crear nuevas categorías si lo encontraban necesario, a través de este método de clasificación híbrido, obtuvimos resultados en común, donde clasificaron  por tipo de producto o por artista, gracias a esta dinamica se definio la estructura que cada categoria tendria segun lo que al usuario le hacia más sentido.
+![card03](https://user-images.githubusercontent.com/39094762/44573161-4d450980-a75c-11e8-9470-621909a97a00.jpg)
+
 
 ![testing cardsor](https://user-images.githubusercontent.com/39094762/44565478-b1f16b80-a73e-11e8-86a5-f0a5a191a322.jpg)
 
