@@ -91,8 +91,11 @@ Falta de información productos.
 Invertir tiempo y energía comprando en tiendas.
    
 **Definición del público objetivo**
+
 En síntesis, gracias a lo obtenido en el proceso de investigación, podemos identificar y personificar a nuestros potenciales usuarios.
+
 *Tipos de usuarios*
+
 Melómano que colecciona productos con temática de artista o bandas de música.
 Fanático de artista o bandas de música que asiste a conciertos y compra merchandising.
 Comprador que busca un regalo para un conocido que es fanático de un artista o banda musical.
@@ -115,9 +118,18 @@ User persona
 ![inventariocontenido](https://user-images.githubusercontent.com/39094762/44565482-b584f280-a73e-11e8-9092-5eb3bf690332.jpg)
 
 **CARD SORTING**
+
 En esta actividad dimos los elementos del inventario de productos de muestra a 5 usuarios diferentes y les pedimos que clasifiquen los productos y los etiqueten como les parece lógico para ellos.
 Con las categorías creadas pero también con la libertad de crear nuevas categorías si lo encontraban necesario, a través de este método de clasificación híbrido, obtuvimos resultados en común, donde clasificaron  por tipo de producto o por artista, gracias a esto pudimos definir las categorías  que se mencionan más arriba.
 
-*Participantes:*
 ![testing cardsor](https://user-images.githubusercontent.com/39094762/44565478-b1f16b80-a73e-11e8-86a5-f0a5a191a322.jpg)
+
+**Definición de la solución/producto**
+
+En base a los descubrimientos de esta investigación, hemos decidido crear un portal e commerce para la venta de los productos de merchandising ya que brinda una mejor administración y gestión del negocio. Permite entregar una detallada información de los productos y su disponibilidad, mejorando así la comunicación con el cliente. 
+
+El usuario obtiene todo lo necesario para decidirse a comprar sin tener que contactar al vendedor  y  el vendedor  puede otorgar una mejor experiencia de su servicio de venta.
+*Link a prototipo navegable*
+https://marvelapp.com/4gdj98i 
+
 
