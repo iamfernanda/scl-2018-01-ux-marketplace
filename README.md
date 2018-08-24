@@ -38,8 +38,11 @@ Para ello, debemos realizar un estudio inicial de cómo debería ser este portal
 ![carta gantt](https://user-images.githubusercontent.com/39094762/44565220-5e325280-a73d-11e8-869a-5b0ec8b6649b.jpg)
 
 ### INVESTIGACIÓN
-![queson](https://user-images.githubusercontent.com/39094762/44572029-f558d380-a758-11e8-9e9f-cc74851435d8.jpg)
+
+![quees](https://user-images.githubusercontent.com/39094762/44572220-947dcb00-a759-11e8-890e-eee73beb8b82.jpg)
+
 **ENTENDIMIENTO DEL PROBLEMA, LA INDUSTRIA Y EL CONTEXTO**
+
 ¿Que es Groupie Merch?
 Es un emprendimiento chileno de merchandising en serigrafía textil, especializado en bandas de música que realizan conciertos en Chile. 
 Está conformado por 2 socios universitarios de tiempo completo, uno de ellos trabaja part time los fin de semana por lo que el negocio de merchandising pasa a segundo plano.
@@ -65,34 +68,24 @@ Queríamos saber lo que está haciendo la competencia o industrias similares par
 ![benchmark](https://user-images.githubusercontent.com/39094762/44565209-5a063500-a73d-11e8-8d5c-b81e2c52b22f.jpg)
 
 ## DESCUBRIMIENTO
-**PROBLEMAS IDENTIFICADOS EN LA INVESTIGACIÓN**
-Dentro del proceso de investigación también se realizaron entrevistas con cliente y a 5 usuarios  para entender sus necesidades y problemáticas. Se pudo identificar lo siguiente:
 
-*Entrevista con cliente*
-![cliente](https://user-images.githubusercontent.com/39094762/44565452-99815100-a73e-11e8-8af3-a908fb191768.jpg)
+**PROBLEMAS IDENTIFICADOS**
 
-### ENTREVISTAS CON USUARIOS
-![usuarios](https://user-images.githubusercontent.com/39094762/44565457-9be3ab00-a73e-11e8-8608-70c732f99497.jpg)
+En el proceso de investigación se inicio realizando una entrevista con el cliente y luego a 5 usuarios. el objetivo es  identificar sus principales necesidades ó problemáticas.
 
-**Se identificaron varias tendencias**
+**SE ABSATRAE LO SIGUIENTE:**
 
-Lo que los usuarios quieren
-Experiencia de la vida real.
-Comprar de manera sencilla y rápida desde la comodidad de la casa.
-Entrega rápida y fácil.
-Comentarios de otros compradores.
-Saber disponibilidad de producto.
+**Los usuarios desean:**
 
-Lo que frustra a los usuarios
-Que no respondan sus dudas.
-Falta de información productos.
-Invertir tiempo y energía comprando en tiendas.
+Experiencia de la vida real, Compras simples y rápidas desde la comodidad de la hogar, Gestión de entrega optima, Feedback de otros compradores del producto de interes, Información de disponibilidad y stock del producto.
+
+**Los dolores de los usuarios**
+
+Nula respuesta a sus dudas, Falta de información productos, Invertir tiempo y energía comprando en tiendas.
    
-**Definición del público objetivo**
 
-En síntesis, gracias a lo obtenido en el proceso de investigación, podemos identificar y personificar a nuestros potenciales usuarios.
 
-*Tipos de usuarios*
+**Tipos de usuarios**
 
 Melómano que colecciona productos con temática de artista o bandas de música.
 Fanático de artista o bandas de música que asiste a conciertos y compra merchandising.
