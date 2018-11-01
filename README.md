@@ -1,130 +1,162 @@
 
-![portada](https://user-images.githubusercontent.com/39094762/44571341-e96c1200-a756-11e8-9a9c-447828e9c8b0.jpg)
+# PORTAL E- COMMERCE PARA GROUPIE MERCH
 
-# DISEÑO DE PORTAL  E- COMMERCE PARA EMPRENDIMIENTO DE MERCHANDISING DE BANDAS MUSICALES 
+Proyecto en el marco académico realizado para un emprendimiento nacional dedicado al merchandising de bandas musicales. 
 
-
-### Objetivos de aprendizaje
-
+**Objetivos de aprendizaje**
 Utilizar los conceptos de UX para equilibrar los objetivos de negocio con las necesidades de los usuarios.
-
+ 
 **Métodos**
-
-Entendimiento del problema y relación con la industria
-Entrevistas con cliente y usuarios
-Clasificación de  secciones, diagrama de afinidad, user Person, customer journey map, card Sorting, flujo de contenidos, flujo de usuarios, prototipos de baja y alta fidelidad y testeo de prototipos.
-
-
+Entendimiento del problema y relación con la industria, Entrevistas con cliente y usuarios, Clasificación de secciones, diagrama de afinidad, user Person, customer journey map, card Sorting, flujo de contenidos, flujo de usuarios, prototipos de baja y alta fidelidad y testing.
+ 
 **Herramientas**
-
-Prototipado: Marvel.
-Testing: Ziggi hd plus ipevo.
+Prototipado: Marvel. 
+Testing: Ziggi hd plus ipevo. 
 Fotografía: CamScanner.
 
-**PRESUPUESTO INICIAL** 
-300 puntos.
+## BENCHMARK
+![benchmarck](https://user-images.githubusercontent.com/39094762/47829189-f3b51880-dd64-11e8-8c12-f1b7c9e6b420.jpg)
 
-![actividades](https://user-images.githubusercontent.com/39094762/44563926-dc3f2b00-a736-11e8-9778-7f527c5fee39.jpg)
+duamserigrafía de indumentaria en serigrafia textil tiene una marcada estética Rock, Underground y bandas de Culto. Manejo activo en redes sociales y publicaciones diarias.
+splashIndumentaria serigrafía textil, realizan talleres,  publican ofertas e historias con clientes utilizando sus productos.
 
+lapalancaserigrafia Serigrafia Insurrecta Artesanal y Callejera. Diseños personalizados a pedido, alta gama de productos,  participantes de talleres y ferias. 
+ 
+organic.style es taller de serigrafía y estampados bolsas, poleras y más.
 
+WOK desing estampados de momentos a través de diseños de souvenirs turísticos de todo Chile, trabajo comprometidos con el medio ambiente y la inclusión. Sitio web e- commerce: catálogo, información y carrito de compra.
 
-**Objetivos del proyecto**
+## RESEARCH
 
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes (ANPC), una asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes de alimentos naturales, postres, accesorios, vestimenta y calzado.  Nos solicita asesorar a uno de sus miembros, Groupie Merch, en la creación de un portal e-commerce desde donde los consumidores compren sus productos sin intermediarios. 
+Hace 2 décadas en nuestro país se realizaban cerca de 10 conciertos al año esta cifra hoy es la misma pero cada mes, un claro antecedente del crecimiento de la industria de la música en Chile. En este ecosistema nacen una serie de nuevos emprendimientos Groupie Merch es uno de ellos y encuentra lugar a partir de la experiencia personal de uno de sus fundadores al asistir a conciertos de bandas  en donde el merchandising ofertado alcanzaban precios muy elevados. 
 
-Para ello, debemos realizar un estudio inicial de cómo debería ser este portal de ventas y cómo deben ofrecer los productos a los consumidores. Averiguar cómo son los consumidores que utilizaría este canal de venta y cuáles son sus motivaciones, cómo es el mercado actual  y que proponer  una visión de cómo podría plantearse este nuevo canal de ventas. Formulando una propuesta de valor.
+Groupie Merch es un emprendimiento que se dedica al merchandising en serigrafía textil, los estampados son de bandas de música que realizan conciertos en Chile y la propuesta está en la venta de artículos de recuerdo de alta calidad y diseño a precio accesible  perfecto para complementar la euforia que se vive al contemplar en vivo a tu banda favorita.
 
-**Planificación**
-![carta gantt](https://user-images.githubusercontent.com/39094762/44565220-5e325280-a73d-11e8-869a-5b0ec8b6649b.jpg)
-
-### INVESTIGACIÓN
-
-![quees](https://user-images.githubusercontent.com/39094762/44572220-947dcb00-a759-11e8-890e-eee73beb8b82.jpg)
-
-**ENTENDIMIENTO DEL PROBLEMA, LA INDUSTRIA Y EL CONTEXTO**
-
-¿Que es Groupie Merch?
-Es un emprendimiento chileno de merchandising en serigrafía textil, especializado en bandas de música que realizan conciertos en Chile. 
-Está conformado por 2 socios universitarios de tiempo completo, uno de ellos trabaja part time los fin de semana por lo que el negocio de merchandising pasa a segundo plano.
-Apuestan a la euforia que se vive al ver en vivo a tu banda favorita. Su principal público objetivo son “melómanos”.
-Los productos de Groupie merch: Bolsos, Morrales, Monederos y Parches.
-
-![productos](https://user-images.githubusercontent.com/39094762/44571604-96df2580-a757-11e8-8e8a-134830924bc3.jpg)
-
-El negocio se sustenta por el capital personal de los socios. No cuentan con un stock de productos definido. la confección se realiza a través de pedido y cuando de manera masiva en recitales.
-Canal de distribución directo: punto principal de venta es en exteriores de conciertos como stand no oficial y ventas online a través de sus redes sociales en Facebook e Instagram,  hacen envíos a todo Chile.
-
-La idea nació a partir de la experiencia de asistir a un concierto de su banda favorita, donde el merchandising de la banda tenía precios muy elevados. Actualmente Groupie Merch, no se encuentra activo en sus canales de ventas online y de manera presencial por falta de tiempo de sus socios.
-Hay conflictos de intereses entre los socios ya que uno se proyecta a largo plazo, para ser independiente y desea confeccionar los productos y el otro no.
-
-La industria del merchandising en Chile está enfocado a las medianas y grandes empresas, realizan las ventas por volumen, hay una amplia gama de productos, entre los cuales los más solicitados corresponden a poleras, gorros, bolsas ecológicas y lápices, el diseño impreso o estampado tiene  gran diversidad para que el cliente pueda elegir, normalmente son logos de empresa para su publicidad, sus propuestas de diseños están estandarizadas dentro de la competencia.
+El negocio está sustentado y conformado por 2 socios ambos universitarios de tiempo completo. La venta se realiza a través de pedido por mensaje privado en redes sociales (Instagram y Facebook), pero la mayor producción es en recitales donde se ubican al exterior como stand no oficial.
+Su principal público son personas “melómanos” amantes de la música y asistente a estos recitales y la gama de productos son:  Bolsos, Morrales, Monederos y Parches.
 
 
-### BENCHMARK
+![productos](https://user-images.githubusercontent.com/39094762/47829283-59a1a000-dd65-11e8-92c2-a803ac450118.jpg)
 
-Comenzamos comparando sitios web  de pequeñas y medianas empresas de  productos  iguales o similares a los ofrecidos por nuestro cliente para obtener inspiración de un portal e commerce.
+En la actualidad el emprendimiento no está activo en sus canales de ventas online y tampoco de manera presencial en recitales por falta de tiempo.
 
-Queríamos saber lo que está haciendo la competencia o industrias similares para identificar las oportunidades de Groupie Merch y poder replicar las buenas prácticas que han tenido éxito con los usuarios. Junto con ello se analizó el diseño de estos sitios y cómo es el flujo de contenidos.
-![benchmark](https://user-images.githubusercontent.com/39094762/44565209-5a063500-a73d-11e8-8d5c-b81e2c52b22f.jpg)
+## ENTREVISTAS
 
-## DESCUBRIMIENTO
+**CLIENTE
 
-**PROBLEMAS IDENTIFICADOS**
+Amante de la música, artista visual, patinadora y gamer.
 
-En el proceso de investigación se inicio realizando una entrevista con el cliente y luego a 5 usuarios. el objetivo es  identificar sus principales necesidades ó problemáticas.
+***Lo que busca***
+Tener mayor tiempo.
+Mejorar la comunicación con los clientes.
+Conocer qué quieren y buscan sus clientes.
+Mantener y mejorar  la calidad de la gama de productos.
 
-**SE ABSATRAE LO SIGUIENTE:**
-
-**Los usuarios desean:**
-
-Experiencia de la vida real, Compras simples y rápidas desde la comodidad de la hogar, Gestión de entrega optima, Feedback de otros compradores del producto de interes, Información de disponibilidad y stock del producto.
-
-**Los dolores de los usuarios**
-
-Nula respuesta a sus dudas, Falta de información productos, Invertir tiempo y energía comprando en tiendas.
-   
+***Frustraciones***
+Capital limitado.
+Stock limitado.
+Devolución de productos.
+Comunicación cortada.
 
 
-**Tipos de usuarios**
+**USUARIOS
 
-Melómano que colecciona productos con temática de artista o bandas de música.
-Fanático de artista o bandas de música que asiste a conciertos y compra merchandising.
-Comprador que busca un regalo para un conocido que es fanático de un artista o banda musical.
-Historia de usuarios
-Como melómano quiero poder comprar productos con temática de mis bandas favoritas para poder coleccionar.
-Como fanática quiero poder comprar merchandising de mi banda favorita para usar en el concierto y recordar esa experiencia.
-Como comprador quiero poder adquirir un producto con temática de artistas para regalar a un conocido.
+Amante de la música, artista visual, patinadora y gamer.
 
-![insait](https://user-images.githubusercontent.com/39094762/44571663-c857f100-a757-11e8-95e1-6afab4944aab.jpg)
+***Lo que busca***
+Comparar productos antes de comprar.
+Experiencia real de productos.
+Realizar compras rápidas.
+Productos de buena calidad.
+Reseñas de compradores.
+Especificaciones técnicas de productos.
+Información clara y sencilla. 
 
+***Frustraciones***
+Respuesta tardía del vendedor.
+Sistema de pago inseguro.
+Falta de stock.
+Poca información del producto.
 
-**Customer Journey Map**
+Amante de la música, ciclista y fanático del animé. 
 
-![user](https://user-images.githubusercontent.com/39094762/44571758-15d45e00-a758-11e8-84f7-fb6e1e69fb44.jpg)
+***Lo que busca***
+Entrega de productos fácil y rápido.
+Experiencia de compra personalizada.
+Reseña de productos.
 
-
-**Arquitectura de la información**
-
-![inventariocontenido](https://user-images.githubusercontent.com/39094762/44565482-b584f280-a73e-11e8-9092-5eb3bf690332.jpg)
-
-**Flujos**
-![flujos](https://user-images.githubusercontent.com/39094762/44571812-4b794700-a758-11e8-8bd3-381a3787a626.jpg)
-
-**CARD SORTING**
-
-En esta actividad dimos los elementos del inventario de productos de muestra a 5 usuarios diferentes y les pedimos que clasifiquen los productos y los etiqueten como les parece lógico para ellos.
-Con las categorías creadas pero también con la libertad de crear nuevas categorías si lo encontraban necesario, a través de este método de clasificación híbrido, obtuvimos resultados en común, donde clasificaron  por tipo de producto o por artista, gracias a esta dinamica se definio la estructura que cada categoria tendria segun lo que al usuario le hacia más sentido.
-![card03](https://user-images.githubusercontent.com/39094762/44573161-4d450980-a75c-11e8-9470-621909a97a00.jpg)
+***Frustraciones***
+Mejora en proceso de entrega de productos.
 
 
-![testing cardsor](https://user-images.githubusercontent.com/39094762/44565478-b1f16b80-a73e-11e8-86a5-f0a5a191a322.jpg)
+Amante de la música y ciclista.
 
-**Definición de la solución/producto**
+***Lo que busca***
+Comprar rápido y fácil.
+Compras online, desde móvil.
+Precios convenientes.
 
-En base a los descubrimientos de esta investigación, hemos decidido crear un portal e commerce para la venta de los productos de merchandising ya que brinda una mejor administración y gestión del negocio. Permite entregar una detallada información de los productos y su disponibilidad, mejorando así la comunicación con el cliente. 
+***Frustraciones***
+Procesos inseguros de pago.
+Solicitud de muchos datos personales y pérdida de estos.
+Respuesta lenta del vendedor.
 
-El usuario obtiene todo lo necesario para decidirse a comprar sin tener que contactar al vendedor  y  el vendedor  puede otorgar una mejor experiencia de su servicio de venta.
-![prototipo](https://user-images.githubusercontent.com/39094762/44571862-7368aa80-a758-11e8-9473-9dc63fa01c80.jpg)
+**Conclusiones
+
+### Fuerte tendencia a las compras online.
+### Mayor información influye en la decisión de compra.
+### Reseñas  y valorización de los productos.
+
+Los usuarios buscan experiencia reales, compras simples y rápidas desde la comodidad de la hogar, gestión de entrega óptima, feedback de otros compradores del producto de interés, Información de disponibilidad y stock del producto.
+Las principales frustraciones son: la lenta respuesta a sus dudas, falta de información productos, Inversión de tiempo en compras en tiendas.
+
+## CARD SORTING
+
+![card-sorting](https://user-images.githubusercontent.com/39094762/47829414-24498200-dd66-11e8-9a9a-f3f2016b53fe.jpg)
+
+
+La actividad se realizó con la gama de productos de Groupie Merch a 5 usuarios diferentes y se le solicitó que clasifiquen los productos etiquetados según sus preferencias. El resultado que obtuvimos fue una clasificación por tipo de producto y por artista, se define la estructura de cada categoría tendrá según los requerimiento de los usuarios.
+
+## CREACIÓN DE USER PERSON
+
+![user-person](https://user-images.githubusercontent.com/39094762/47829451-565ae400-dd66-11e8-8814-14f9d64c2044.jpg)
+
+## CUSTOMER JOURNEY MAP
+
+![customer jouney map](https://user-images.githubusercontent.com/39094762/47829475-71c5ef00-dd66-11e8-9462-aa79bc8043e9.jpg)
+
+
+## PROBLEMÁTICAS
+ 
+### Stand no oficial
+### Tiempo limitado
+
+La información recopilada evidencia la necesidad de potenciar el negocio de una manera más automatizada, el enfoque está en crear un site e-commerce plataforma que debe ajustarse a los requerimientos y necesidades de público objetivo,  brindar una navegación intuitiva y completa con toda la información hasta la finalización del proceso de compra generando mayor satisfacción al usuario.
+
+## SITE MAP
+
+![sitemap](https://user-images.githubusercontent.com/39094762/47829536-c49fa680-dd66-11e8-8b3e-71f25f9ce1bc.jpg)
+
+
+## SKETCH 
+
+![sketch](https://user-images.githubusercontent.com/39094762/47829610-19dbb800-dd67-11e8-9693-fc8b06fc3f68.jpg)
+
+## PROTOTIPO 
+
+![prototipo](https://user-images.githubusercontent.com/39094762/47829645-40015800-dd67-11e8-9723-b2b99806f902.jpg)
+
+## USER FLOW
+
+![userflow](https://user-images.githubusercontent.com/39094762/47829685-6921e880-dd67-11e8-9b09-a05a919d4249.jpg)
+
+## PROPUESTA FINAL
+
+![groupie0002](https://user-images.githubusercontent.com/39094762/47829729-a0909500-dd67-11e8-8bb5-04c0d41c268f.jpg)
+
+
+
+
 *Link a prototipo navegable*
 https://marvelapp.com/4gdj98i 
 
