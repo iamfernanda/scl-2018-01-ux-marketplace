@@ -1,7 +1,10 @@
 
-# PORTAL E- COMMERCE PARA GROUPIE MERCH
+# PORTAL E- COMMERCE 
 
-Proyecto en el marco académico realizado para un emprendimiento nacional dedicado al merchandising de bandas musicales. 
+
+Proyecto académico realizado para un emprendimiento nacional dedicado al merchandising de bandas musicales. 
+
+
 
 **Objetivos de aprendizaje**
 Utilizar los conceptos de UX para equilibrar los objetivos de negocio con las necesidades de los usuarios.
