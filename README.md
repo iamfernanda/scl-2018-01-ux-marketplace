@@ -17,17 +17,6 @@ Prototipado: Marvel.
 Testing: Ziggi hd plus ipevo. 
 Fotografía: CamScanner.
 
-## BENCHMARK
-![benchmarck](https://user-images.githubusercontent.com/39094762/47829189-f3b51880-dd64-11e8-8c12-f1b7c9e6b420.jpg)
-
-duamserigrafía de indumentaria en serigrafia textil tiene una marcada estética Rock, Underground y bandas de Culto. Manejo activo en redes sociales y publicaciones diarias.
-splashIndumentaria serigrafía textil, realizan talleres,  publican ofertas e historias con clientes utilizando sus productos.
-
-lapalancaserigrafia Serigrafia Insurrecta Artesanal y Callejera. Diseños personalizados a pedido, alta gama de productos,  participantes de talleres y ferias. 
- 
-organic.style es taller de serigrafía y estampados bolsas, poleras y más.
-
-WOK desing estampados de momentos a través de diseños de souvenirs turísticos de todo Chile, trabajo comprometidos con el medio ambiente y la inclusión. Sitio web e- commerce: catálogo, información y carrito de compra.
 
 ## RESEARCH
 
@@ -43,9 +32,22 @@ Su principal público son personas “melómanos” amantes de la música y asis
 
 En la actualidad el emprendimiento no está activo en sus canales de ventas online y tampoco de manera presencial en recitales por falta de tiempo.
 
+## BENCHMARK
+![benchmarck](https://user-images.githubusercontent.com/39094762/47829189-f3b51880-dd64-11e8-8c12-f1b7c9e6b420.jpg)
+
+duamserigrafía de indumentaria en serigrafia textil tiene una marcada estética Rock, Underground y bandas de Culto. Manejo activo en redes sociales y publicaciones diarias.
+splashIndumentaria serigrafía textil, realizan talleres,  publican ofertas e historias con clientes utilizando sus productos.
+
+lapalancaserigrafia Serigrafia Insurrecta Artesanal y Callejera. Diseños personalizados a pedido, alta gama de productos,  participantes de talleres y ferias. 
+ 
+organic.style es taller de serigrafía y estampados bolsas, poleras y más.
+
+WOK desing estampados de momentos a través de diseños de souvenirs turísticos de todo Chile, trabajo comprometidos con el medio ambiente y la inclusión. Sitio web e- commerce: catálogo, información y carrito de compra.
+
+
 ## ENTREVISTAS
 
-**CLIENTE
+**CLIENTE**
 
 Amante de la música, artista visual, patinadora y gamer.
 
@@ -62,7 +64,7 @@ Devolución de productos.
 Comunicación cortada.
 
 
-**USUARIOS
+**USUARIOS**
 
 Amante de la música, artista visual, patinadora y gamer.
 
