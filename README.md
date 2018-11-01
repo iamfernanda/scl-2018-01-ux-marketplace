@@ -106,7 +106,7 @@ Procesos inseguros de pago.
 Solicitud de muchos datos personales y pérdida de estos.
 Respuesta lenta del vendedor.
 
-**Conclusiones
+## Conclusiones
 
 ### Fuerte tendencia a las compras online.
 ### Mayor información influye en la decisión de compra.
